@@ -1,6 +1,3 @@
-A simple todo react app build using redux to manage state and hosted on netlify.
-link : https://todomatic101.netlify.app/
-![image](https://github.com/aman2000raj/todomatic/assets/66414882/39bfb485-35a8-45cd-ba32-d4680abb6016)
-
-
-
+##A simple todo react app build using redux to manage state and hosted on netlify.
+#link : https://todomatic101.netlify.app/
+![Screenshot (1)](https://github.com/aman2000raj/todomatic/assets/66414882/a36d302f-54d2-421c-88bd-265d10ae38da)
